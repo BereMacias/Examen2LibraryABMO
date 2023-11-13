@@ -1,0 +1,14 @@
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\bin\Debug\net7.0\libraryExamen2.deps.json
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\bin\Debug\net7.0\libraryExamen2.runtimeconfig.json
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\bin\Debug\net7.0\libraryExamen2.dll
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\bin\Debug\net7.0\libraryExamen2.pdb
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.csproj.AssemblyReference.cache
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.AssemblyInfoInputs.cache
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.AssemblyInfo.cs
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.csproj.CoreCompileInputs.cache
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.dll
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\refint\libraryExamen2.dll
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.pdb
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\libraryExamen2.genruntimeconfig.cache
+D:\Software\Visual Studio 2022\Trabajos\library\libraryExamen2\obj\Debug\net7.0\ref\libraryExamen2.dll
